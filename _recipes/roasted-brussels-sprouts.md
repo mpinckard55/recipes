@@ -14,11 +14,11 @@ ingredients:
 - salt, pepper, etc to taste
 
 directions:
-- Wash and thinly slice the brussels sprouts (or buy them pre-sliced at HEB or Central Market)
-- Toss the brussels (+ optional veggies), olive oil, and salt + pepper on a baking sheet
-- Roast under the broiler for 10-15 mins, keeping a close eye
-- Remove from the oven when the edges just start to blacken
-- Toss with optional ingredients (depending on how healthy you're feeling)
+- Wash and thinly slice the brussels sprouts.
+- Toss the brussels (+ optional veggies), olive oil, and salt + pepper on a baking sheet.
+- Roast under the broiler for 10-15 mins, keeping a close eye.
+- Remove from the oven when the edges just start to blacken.
+- Toss with optional ingredients (depending on how healthy you're feeling).
 
 ---
 
