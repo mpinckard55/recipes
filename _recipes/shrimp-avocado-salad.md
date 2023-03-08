@@ -6,7 +6,6 @@ title: "Shrimp and Avocado Salad"
 tags: appetizer, shrimp
 
 ingredients:
-- **THE DRESSING**
 - 1 tbsp lemon juice (about half a lemon)
 - 1 tbsp rice vinegar
 - 1 tbsp extra virgin olive oil
@@ -15,7 +14,6 @@ ingredients:
 - 1 tsp sriracha
 - 1 tsp honey
 - 1 tsp dijon mustard
-- **EVERYTHING ELSE**
 - 1 lb large cooked shrimp, chopped
 - 1 cup cherry tomatoes, diced
 - 1 small red onion, diced fine (about 1/2 cup)
