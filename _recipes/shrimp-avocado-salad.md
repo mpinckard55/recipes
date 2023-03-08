@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Shrimp & Avocado Salad"
+title: "Shrimp and Avocado Salad"
 # image:
 tags: appetizer, shrimp
 
