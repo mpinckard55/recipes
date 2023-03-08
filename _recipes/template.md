@@ -3,7 +3,7 @@
 layout: recipe
 title: "template"
 # image:
-tags:
+tags: 
 
 ingredients:
 
