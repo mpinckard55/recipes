@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chowdown</title>
+    <description>The plain text recipe database for hackers</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Mar 2023 09:19:22 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2023 09:19:22 -0400</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Apfelkücherl</title>
+        <description>
+</description>
+        <link>/recipes/apfelk%C3%BCcherl.html</link>
+        <guid isPermaLink="true">/recipes/apfelk%C3%BCcherl.html</guid>
+        
+        <category>dessert</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Asparagus Risotto</title>
+        <description>
+</description>
+        <link>/recipes/asparagus-risotto.html</link>
+        <guid isPermaLink="true">/recipes/asparagus-risotto.html</guid>
+        
+        <category>risotto,</category>
+        
+        <category>asparagus,</category>
+        
+        <category>vegetable</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Avocado Salad</title>
+        <description>
+</description>
+        <link>/recipes/avocado-salad.html</link>
+        <guid isPermaLink="true">/recipes/avocado-salad.html</guid>
+        
+        <category>salad,</category>
+        
+        <category>chicken</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bacon Zucchini Risotto</title>
+        <description>
+</description>
+        <link>/recipes/bacon-zucchini-risotto.html</link>
+        <guid isPermaLink="true">/recipes/bacon-zucchini-risotto.html</guid>
+        
+        <category>risotto,</category>
+        
+        <category>side,</category>
+        
+        <category>vegetable</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Baked Sausage and Cheese Rigatoni</title>
+        <description>
+</description>
+        <link>/recipes/baked-sausage-and-cheese-rigatoni.html</link>
+        <guid isPermaLink="true">/recipes/baked-sausage-and-cheese-rigatoni.html</guid>
+        
+        <category>pasta</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Balsamic Glazed Salmon</title>
+        <description>
+</description>
+        <link>/recipes/balsamic-glazed-salmon.html</link>
+        <guid isPermaLink="true">/recipes/balsamic-glazed-salmon.html</guid>
+        
+        <category>fish,</category>
+        
+        <category>salmon</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Banana Bread</title>
+        <description>&lt;p&gt;From Angie’s mom&lt;/p&gt;
+</description>
+        <link>/recipes/banana-bread.html</link>
+        <guid isPermaLink="true">/recipes/banana-bread.html</guid>
+        
+        <category>breakfast,</category>
+        
+        <category>baking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Basic Quiche</title>
+        <description>
+</description>
+        <link>/recipes/basic-quiche.html</link>
+        <guid isPermaLink="true">/recipes/basic-quiche.html</guid>
+        
+        <category>breakfast</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bread Machine Bread Sticks</title>
+        <description>
+</description>
+        <link>/recipes/bread-machine-bread-sticks.html</link>
+        <guid isPermaLink="true">/recipes/bread-machine-bread-sticks.html</guid>
+        
+        <category>bread,</category>
+        
+        <category>bread</category>
+        
+        <category>sticks</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Broccoli Beer Cheese Soup</title>
+        <description>&lt;p&gt;This recipe is inspired by one of my favorites, Gourmand’s Beer Cheese Soup, which uses Shiner Bock. Feel free to use whatever you want, then go to &lt;a href=&quot;http://lovethysandwich.com&quot;&gt;Gourmand’s&lt;/a&gt; to have the real thing.&lt;/p&gt;
+</description>
+        <link>/recipes/broccoli-cheese-soup.html</link>
+        <guid isPermaLink="true">/recipes/broccoli-cheese-soup.html</guid>
+        
+        <category>sides,</category>
+        
+        <category>soups</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
